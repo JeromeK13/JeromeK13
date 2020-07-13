@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ![Programmer](https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif) 
-[![Jerome's github stats](https://github-readme-stats.vercel.app/api?username=JeromeK13&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Jerome's github stats](https://github-readme-stats.vercel.app/api?username=JeromeK13&show_icons=true)
 <!-- 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 

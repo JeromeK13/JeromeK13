@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
-    <img align="left" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="400" height="200"/>
+    <img align="left" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="45%" height="200"/>
   </a>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=JeromeK13&show_icons=true" width="500" style="vertical-align:middle"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=JeromeK13&show_icons=true" width="45%"/>
   </a>
  </div>
 

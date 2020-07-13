@@ -1,7 +1,6 @@
 <!--
 ### Hi there 👋
 
-
 **JeromeK13/JeromeK13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### The year is 20XX. Web apps are built in C++ and Rust with WebAssembly, and desktop apps are built in JavaScript with Electron.
 
 <div>
   <a href="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">

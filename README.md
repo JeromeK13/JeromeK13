@@ -16,9 +16,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+  <a href="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+    <img align="left" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="400" height="200"/>
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=JeromeK13&show_icons=true" width="500" style="vertical-align:middle"/>
+  </a>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 ![Programmer](https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif) 
 ![Jerome's github stats](https://github-readme-stats.vercel.app/api?username=JeromeK13&show_icons=true)
-<!-- 
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

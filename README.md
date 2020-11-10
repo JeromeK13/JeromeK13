@@ -17,20 +17,13 @@ Here are some ideas to get you started:
 #### The year is 20XX. Web apps are built in C++ and Rust with WebAssembly, and desktop apps are built in JavaScript with Electron.
 
 <div>
-  <a href="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
-    <img align="left" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="45%" height="200"/>
+  <a href=https://github-readme-stats.vercel.app/api/top-langs/?username=dannyverp&layout=compact">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyverp&layout=compact" width="45%" height="200"/>
   </a>
   <a>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=JeromeK13&show_icons=true" width="45%"/>
   </a>
  </div>
-
-
-
-
-
-
-
 
 
 

@@ -9,3 +9,9 @@ I like to build things with SQL and NoSQL databases, and modern / cutting edge t
 I am currently learning Rust and catching back up with Kubernetes and looking into the Solana Ecosystem👀
 
 If you want to work together, feel free to reach out
+
+You can find me on:
+
+* [My website]()
+* [LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-krell-44b47a16a/)
+* [Dev.to](https://dev.to/jeromek13)

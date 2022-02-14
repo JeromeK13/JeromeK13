@@ -1,16 +1,11 @@
-Hey! I'm @JeromeK13 (Jerome Krell) 👋
+Hey! I'm @JeromeK13 (Jérôme Krell) 👋
 
-I have been building APIs and tools for Blockchain and Database -Systems and Infrastructure, in financal Sectors and startups. 🌎
+I have been building APIs and tools for Blockchain and Database -Systems and Infrastructure, in financial Sectors and startups. 🌎
 
-I created a lot of automation and a widly used Steam-Workshop with over 1.5 Millions subscribers. 🚀
+I created a lot of automation and a widely used Steam-Workshop with over 1.5 Millions subscribers. 🚀
 
-I like to build things with SQL databases, and modern / cutting edge technologies. 🤖
+I like to build things with SQL and NoSQL databases, and modern / cutting edge technologies. 🤖
 
-I am currently learning Rust and catching back up with Kubernetes 👀
+I am currently learning Rust and catching back up with Kubernetes and looking into the Solana Ecosystem👀
 
-You can find me on:
-
-    My website:
-    LinkedIn
-    Dev.to
-
+If you want to work together, feel free to reach out

@@ -4,9 +4,9 @@ I have been building APIs and tools around Blockchain and Database -Systems and 
 
 I created a lot of automation and a widely used Steam-Workshop with over 1.5 Millions subscribers. 🚀
 
-I like to build things with SQL and NoSQL databases, and modern / cutting edge technologies. 🤖
+I like to build things with Databases and modern / cutting edge technologies. 🤖
 
-I am currently learning Rust and catching back up with Kubernetes and looking into the Solana Ecosystem👀
+I am currently learning Rust and keep an eye on the blockchain ecosystem👀
 
 If you want to work together, feel free to reach out
 

@@ -12,6 +12,5 @@ If you want to work together, feel free to reach out
 
 You can find me on:
 
-* [My website]()
 * [LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-krell-44b47a16a/)
 * [Dev.to](https://dev.to/jeromek13)

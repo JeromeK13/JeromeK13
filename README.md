@@ -2,7 +2,7 @@ Hey! I'm @JeromeK13 (Jérôme Krell) 👋
 
 I have been building APIs and tools around Blockchain and Database -Systems and Infrastructure, in financial Sectors and startups for now over 4 Years. 🌎
 
-I created a lot of automation and a widely used Steam-Workshop with over 1.7 Millions subscribers. 🚀
+I created a lot of automation and a widely used Steam-Workshop with over 1.8 Millions subscribers. 🚀
 
 I like to build things with Databases and modern / cutting edge technologies. 🤖
 
